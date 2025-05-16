@@ -23,7 +23,7 @@
     "node": ">=18.18.0"
   },
   "dependencies": {
-    "@remix-run/node" : "2.16.6"
+    "@remix-run/node" : "^2.16.6"
     "@ai-sdk/anthropic": "^0.0.39",
     "@codemirror/autocomplete": "^6.17.0",
     "@codemirror/commands": "^6.6.0",
